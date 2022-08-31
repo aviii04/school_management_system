@@ -1,2 +1,2 @@
 # school_management_system
-School Management System using Django Rest Frameork.
+School Management System using Django Rest Framework.
